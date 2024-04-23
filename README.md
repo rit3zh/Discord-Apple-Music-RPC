@@ -30,4 +30,6 @@ This is a Discord Rich Presence client implemented in Node.js. It allows you to 
 
 ## Example
 
-<img width="364" alt="apple music" src="https://media.discordapp.net/attachments/1069540434646401127/1232157954229272676/RPReplay_Final1713839536.gif?ex=66287004&is=66271e84&hm=bef9ba71a2928bb9e8ab8fb236727c32f0a0643ac125606202e393ab63c84b31&=&width=404&height=877">
+<img width="364" alt="apple music" src="https://media.discordapp.net/attachments/1069540434646401127/1232157410001424414/image.png?ex=66286f82&is=66271e02&hm=347345ea505b5668cd4e197201e2e62739eaa8862824b956b2c83dc843f830f8&=&format=webp&quality=lossless&width=282&height=56">
+
+<img width="364" alt="apple music" src="https://cdn.discordapp.com/attachments/1069540434646401127/1232157204438581349/image.png?ex=66286f51&is=66271dd1&hm=796b7f18cde1ad5a0a49629676c7412b83d07aacff0a613f179c816911a00194&">
