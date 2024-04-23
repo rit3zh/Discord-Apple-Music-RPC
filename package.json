@@ -1,0 +1,37 @@
+{
+  "name": "rpc",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon dist/index.js",
+    "watch": "npx tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "apple-bridge": "^1.4.1",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "discord-auto-rpc": "^1.0.17",
+    "discord-rich-presence": "^0.0.8",
+    "discord-rpc": "^4.0.1",
+    "discord.js-selfbot-rpc": "^1.0.1",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "dotenv": "^16.4.5",
+    "ezgif-node": "^0.1.2",
+    "gifs-api": "^0.0.4",
+    "itunes-bridge": "^0.6.7",
+    "node-itunes-search": "^1.2.3",
+    "ora-classic": "^5.4.2",
+    "poru-applemusic": "^1.2.0",
+    "searchitunes": "^2.6.0",
+    "spotify-info.js": "^1.0.4",
+    "tiny-typed-emitter": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.5"
+  }
+}
